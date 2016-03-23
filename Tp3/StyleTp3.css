@@ -1,0 +1,77 @@
+#hdiv {
+	height: 30px;
+	background-color: grey;
+	padding: 20px;
+}
+
+#pritable {
+	text-align:center; 
+	background-image: url(http://finanzascarbono.org/wp-content/uploads/2011/03/banner-general-color-azul.jpg);
+	height: 297px;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 148px
+}
+
+.fontrel {
+	font-family: 'Raleway', sans-serif;
+}
+
+.fontopen {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.font30 {
+	font-size: 30px;
+}
+
+.inblo {
+	display: inline-block;
+}
+
+.inline {
+	display: inline;
+}
+
+.tcenter {
+	text-align: center;
+}
+
+.fright {
+	float: right;
+}
+
+.fleft {
+	float: left;
+}
+
+.lsnone {
+	list-style-type: none;
+}
+
+.imgwi100 {
+	width: 100%
+}
+
+.prel {
+	position: relative;
+}
+
+.pad30 {
+	padding: 30px;
+}
+#div1f {
+	height: 170px;
+	width: 100%;
+	background-color: grey;
+}
+
+#div2f {
+	height: 70px;
+	width: 100%;
+	background-color: darkcyan;
+}
+
+.fotbutpad {
+	padding-top: 25px
+}
